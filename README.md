@@ -38,7 +38,9 @@ git clone https://www.modelscope.cn/LLM-Research/Meta-Llama-3.1-8B-Instruct.git
 
 ## 七、未来发展与贡献
 ### 参考网站
-本模型训练相关信息可参考：[https://github.com/datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
+本模型训练脚本的编写可参考：[https://github.com/datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
+
+本模型基于Meta-Llama-3.1-8B-Instruct开发，原网址为：[https://www.modelscope.cn/search?search=Meta-Llama-3.1-8B-Instruct](https://www.modelscope.cn/search?search=Meta-Llama-3.1-8B-Instruct)
 
 欢迎广大开发者和研究人员对本模型进一步研究改进。如有新想法、发现或改进建议，可通过提交 Pull Request 或 Issue 方式交流合作，共同推动模型发展应用。
 
