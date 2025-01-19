@@ -35,8 +35,14 @@ model_dir = snapshot_download('NoahIsARider/NoahIsAWriter')
 git clone https://www.modelscope.cn/NoahIsARider/NoahIsAWriter.git
 ```
 
+请在文件夹NoahIsAWriter中打开终端并执行下面命令下载模型：
+```
+git clone https://www.modelscope.cn/LLM-Research/Meta-Llama-3.1-8B-Instruct.git
+```
+
 ## 五、使用示例
-模型下载完成后，可依据具体应用场景集成到项目中，按相应 API 或接口规范调用实现文本生成功能。如在文本创作应用中，输入提示信息或主题，模型生成故事、文章、对话等文本内容。
+
+模型下载完成后，可依据具体应用场景集成到项目中，按相应 API 或接口规范调用实现文本生成功能。如在文本创作应用中，输入提示信息或主题，模型生成故事、文章、对话等文本内容。test.py文件是一个使用实例
 
 ## 六、模型训练与优化
 模型训练采用先进算法和技术，经大量文本数据训练优化以提升性能和生成质量。具体训练细节和参数设置可依实际情况调整改进。
