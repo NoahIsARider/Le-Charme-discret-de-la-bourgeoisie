@@ -1,4 +1,4 @@
-# NoahIsAWriter 模型 README
+# README
 
 ## 一、模型概述
 本模型基于 `LLM-Research/Meta-Llama-3-8B-Instruct` 开发，应用于自然语言处理（NLP）领域的文本生成任务。采用 Pytorch 框架，遵循 Apache License 2.0 开源协议。
