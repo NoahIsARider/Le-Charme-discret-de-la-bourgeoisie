@@ -25,9 +25,13 @@
 git clone https://www.modelscope.cn/NoahIsARider/NoahIsAWriter.git
 ```
 
-请在文件夹NoahIsAWriter中打开终端并执行下面命令下载模型：
+在文件夹NoahIsAWriter中打开终端并执行下面命令下载模型：
 ```
 git clone https://www.modelscope.cn/LLM-Research/Meta-Llama-3.1-8B-Instruct.git
+```
+使用已有数据集，或者替换成你自己的数据集，在文件夹NoahIsAWriter中打开终端并执行下面进行训练：
+```
+python train.py
 ```
 
 ## 五、使用示例
