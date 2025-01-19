@@ -17,19 +17,8 @@
 
 
 ## 四、下载与安装
-### （一）SDK 下载
-1. 确保已安装 `pip` 工具。
-2. 执行命令安装 `ModelScope`：
-```bash
-pip install modelscope
-```
-3. 使用 Python 代码下载模型：
-```python
-from modelscope import snapshot_download
-model_dir = snapshot_download('NoahIsARider/NoahIsAWriter')
-```
 
-### （二）Git 下载
+
 执行命令克隆模型仓库：
 ```
 git clone https://www.modelscope.cn/NoahIsARider/NoahIsAWriter.git
