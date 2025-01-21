@@ -23,7 +23,7 @@
 执行命令克隆模型仓库：
 
 ```
-git clone https://www.modelscope.cn/NoahIsARider/NoahIsAWriter.git
+git clone https://github.com/NoahIsARider/Le-Charme-discret-de-la-bourgeoisie.git
 ```
 
 在文件夹NoahIsAWriter中打开终端并执行下面命令下载模型：
