@@ -21,11 +21,16 @@
 
 
 执行命令克隆模型仓库：
+
 ```
 git clone https://www.modelscope.cn/NoahIsARider/NoahIsAWriter.git
 ```
 
 在文件夹NoahIsAWriter中打开终端并执行下面命令下载模型：
+```
+git lfs install
+```
+
 ```
 git clone https://www.modelscope.cn/LLM-Research/Meta-Llama-3.1-8B-Instruct.git
 ```
